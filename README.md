@@ -3,6 +3,4 @@
 ## Placements:
 #### 10th Place at UBBFSEGA
 #### 49th Place globally
-
-## Tests Failed - 5
  
